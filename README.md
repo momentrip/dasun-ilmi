@@ -183,9 +183,9 @@ npx jest           # 단위 테스트 (분류 · 추천 · 위기 감지 · 센�
 
 ## 팀
 
-| 이름 | 담당 |
-|---|---|
-| 신연아 [@snyeona](https://github.com/snyeona) | 차 흐름(고르기 · 따르기 · 마시기), 센서 |
-| 노희윤 [@hyroh5](https://github.com/hyroh5) | 홈 · 풍등, 고민 적기, 차 우리기, 선어 확인, 찻잔 도감 |
-| 박세인 [@parksein0223](https://github.com/parksein0223) | 회차 데이터 · 로컬 DB, 위기 감지, Supabase |
-| 유민아 [@yumina0616](https://github.com/yumina0616) | 선어 데이터, 추천 알고리즘, 번뇌 자동 분류 |
+| 이름 | 파트 | 담당 |
+|---|---|---|
+| 신연아 [@snyeona](https://github.com/snyeona) | FE | 차 흐름(고르기 · 따르기 · 마시기), 센서 |
+| 노희윤 [@hyroh5](https://github.com/hyroh5) | FE | 홈 · 풍등, 고민 적기, 차 우리기, 선어 확인, 찻잔 도감 |
+| 박세인 [@parksein0223](https://github.com/parksein0223) | BE · Data | Supabase(스키마 · RLS · Realtime), 로컬 DB, 회차 데이터, 위기 감지 |
+| 유민아 [@yumina0616](https://github.com/yumina0616) | Algorithm | 선어 데이터, 추천 알고리즘, 번뇌 자동 분류 |
